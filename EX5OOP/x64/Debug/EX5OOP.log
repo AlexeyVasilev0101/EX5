@@ -1,0 +1,3 @@
+﻿  EX5OOP.cpp
+D:\Новая папка\EX5OOP\EX5OOP.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  EX5OOP.vcxproj -> D:\Новая папка\EX5OOP\x64\Debug\EX5OOP.exe
